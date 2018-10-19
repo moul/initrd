@@ -12,4 +12,4 @@ Ramdisk image used to boot the C1 servers.
 ## Licensing
 
 © 2014-2016 Scaleway - [MIT License](https://github.com/scaleway/initrd/blob/master/LICENSE.md).
-A project by [![Scaleway](https://avatars1.githubusercontent.com/u/5185491?v=3&s=42)](https://www.scaleway.com/)
+A project by [![Scaleway](https://avatars1.githubusercontent.com/u/5185491?v=3&s=42)](https://www.scaleway.com/) [![GuardRails badge](https://badges.production.guardrails.io/moul/initrd.svg)](https://www.guardrails.io)
